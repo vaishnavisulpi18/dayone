@@ -33,6 +33,7 @@ line(319, 280, 319, 398);
 line(320, 280, 320, 398);
 rectangle(320, 280, 330, 300);
 outtextxy(340, 280, "PRESS ENTER TO LAUNCH THE ROCKET");
+
 getch();
 
 for (j=400; j<640; j++)
@@ -102,3 +103,6 @@ delay(90);
 getch();
 return 0;
 }
+#NAME VAISHNAVI AND PRATEEKSHA
+### EDUCATION  IS THE POWERFUL WEAPON WHICH YOU CAN USE TO CHANGE THE WORLD
+
